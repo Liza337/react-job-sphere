@@ -1,0 +1,114 @@
+[
+      {
+        "id": 1,
+        "companyLogo": "https://i.ibb.co/0jjPJQz/google-1-1-1.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "ABC Corporation",
+        "remoteOrOnsite": "Onsite",
+        "location": "Seattle, WA",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$100,000 - $120,000",
+        "jobDescription": "ABC Corporation is seeking a skilled software engineer to join our team. In this role, you will work on the development of our web-based applications and help to implement new features and improvements.",
+        "jobResponsibility": "• Develop and maintain web-based applications\n• Collaborate with cross-functional teams to ensure effective delivery\n• Write clean, efficient and well-documented code\n• Participate in code reviews to ensure code quality",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+        "experiences": "• 3+ years of experience in software development\n• Strong knowledge of one or more programming languages such as Java, Python, or JavaScript\n• Experience with front-end frameworks such as React or Angular",
+        "contactInformation": {
+          "phone": "555-555-1234",
+          "email": "jobs@abccorp.com"
+        }
+      },
+      {
+        "id": 2,
+        "companyLogo": "https://i.ibb.co/F0GvjCG/Group-10021.png",
+        "jobTitle": "Marketing Manager",
+        "companyName": "XYZ Inc.",
+        "remoteOrOnsite": "Onsite",
+        "location": "New York, NY",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "jobDescription": "XYZ Inc. is seeking an experienced Marketing Manager to lead our marketing team. In this role, you will develop and execute marketing strategies to drive brand awareness and generate leads.",
+        "jobResponsibility": "• Develop and execute marketing strategies to increase brand awareness and generate leads\n• Manage and mentor the marketing team\n• Work with cross-functional teams to develop and launch new products and campaigns\n• Analyze marketing metrics and adjust strategies as needed",
+        "educationalRequirements": "Bachelor's or Master's degree in Marketing or related field",
+        "experiences": "• 5+ years of experience in marketing\n• Strong knowledge of digital marketing channels and tactics\n• Experience managing and mentoring a team",
+        "contactInformation": {
+          "phone": "555-555-5678",
+          "email": "jobs@xyzinc.com"
+        }
+      },
+      {
+        "id": 3,
+        "companyLogo": "https://i.ibb.co/9cnyn7g/netflix-4-1.png",
+        "jobTitle": "Data Analyst",
+        "companyName": "123 Analytics",
+        "remoteOrOnsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$75,000 - $90,000",
+        "jobDescription": "123 Analytics is seeking a Data Analyst to join our team. In this role, you will be responsible for analyzing data and providing insights to help inform business decisions.",
+        "jobResponsibility": "• Analyze data to provide insights and recommendations\n• Develop dashboards and reports to communicate findings\n• Collaborate with cross-functional teams to ensure data accuracy and completeness\n• Identify opportunities for process improvement",
+        "educationalRequirements": "Bachelor's or Master in CSE",
+        "experiences": "- 3+ years of software engineering experience\n- Experience with Java, Python, or C++\n- Familiarity with agile development methodologies",
+        "contactInformation": {
+            "phone": "555-555-5678",
+            "email": "jobs@xyzdesignco.com"
+          }
+      
+      },
+      {
+        "id": 4,
+        "companyLogo": "https://i.ibb.co/sFDj12C/tesla-9-1.png",
+        "jobTitle": "Graphic Designer",
+        "companyName": "XYZ Design Co.",
+        "remoteOrOnsite": "Onsite",
+        "location": "Los Angeles, CA",
+        "fulltimeOrPartTime": "Part-time",
+        "salary": "$60,000 - $80,000",
+        "jobDescription": "XYZ Design Co. is seeking a talented graphic designer to join our team. In this role, you will be responsible for creating visual concepts and designs for our clients.",
+        "jobResponsibility": "- Create visual concepts and designs\n- Collaborate with clients to understand their needs and preferences\n- Use software tools to create designs\n- Present designs to clients and make revisions as needed",
+        "educationalRequirements": "Bachelor's degree in Graphic Design or related field",
+        "experiences": "- 3+ years of graphic design experience\n- Proficient in Adobe Creative Suite\n- Experience with branding and identity design",
+        "contactInformation": {
+          "phone": "555-555-5678",
+          "email": "jobs@xyzdesignco.com"
+        }
+      },
+      {
+        "id": 5,
+        "companyLogo": "https://i.ibb.co/jhNQyG3/Career-Hub.png",
+        "jobTitle": "Sales Representative",
+        "companyName": "123 Sales Inc.",
+        "remoteOrOnsite": "Remote",
+        "location": "Seattle, WA",
+        "fulltimeOrPartTime": "Part-time",
+        "salary": "$50,000 - $70,000",
+        "jobDescription": "123 Sales Inc. is seeking a motivated sales representative to join our team. In this role, you will be responsible for selling our products to new and existing customers.",
+        "jobResponsibility": "- Sell products to new and existing customers\n- Develop and maintain relationships with customers\n- Attend sales meetings and training sessions\n- Provide feedback to management on sales performance",
+        "educationalRequirements": "Bachelor's degree in Business or related field",
+        "experiences": "- 2+ years of sales experience\n- Proven track record of meeting or exceeding sales targets\n- Excellent communication and interpersonal skills",
+        "contactInformation": {
+            "phone": "555-555-1234",
+            "email": "jobs@abccorp.com"
+          }
+
+        },
+        {
+            "id": 6,
+            "companyLogo": "https://i.ibb.co/RzMGM5T/Group-9969.png",
+            "jobTitle": "Front-End Developer",
+            "companyName": "XYZ Inc.",
+            "remoteOrOnsite": "Remote",
+            "location": "USA",
+            "fulltimeOrPartTime": "Full-time",
+            "salary": "$90,000 - $110,000",
+            "jobDescription": "XYZ Inc. is seeking a talented Front-End Developer to join our team. In this role, you will be responsible for developing and maintaining our web applications.",
+            "jobResponsibility": "• Develop and maintain web applications\n• Write high-quality, reusable code\n• Collaborate with other teams to ensure smooth integration\n• Continuously optimize application performance",
+            "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+            "experiences": "• 5+ years of experience in front-end development\n• Proficient in HTML, CSS, and Javascript\n• Experience with React, Angular, or Vue.js",
+            "contactInformation": {
+              "phone": "555-555-5678",
+              "email": "jobs@xyzinc.com"
+            }
+          }
+        ]
+
+  

@@ -1,0 +1,22 @@
+[
+    {
+      "logo": "https://i.ibb.co/X8bYQNM/accounts-1.png",
+      "name": "Marketing",
+      "jobs": "300 jobs available"
+    },
+    {
+      "logo": "https://i.ibb.co/1GtkRQd/business-1.png",
+      "name": "Information Technology",
+      "jobs": "200+ jobs available"
+    },
+    {
+      "logo": "https://i.ibb.co/28RB6Rp/social-media-1.png",
+      "name": "Human Resources",
+      "jobs": "100 jobs available"
+    },
+    {
+      "logo": "https://i.ibb.co/9hkqKZB/chip-1.png",
+      "name": "Sales",
+      "jobs": "150 jobs available"
+    }
+  ]
