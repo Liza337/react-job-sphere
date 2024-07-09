@@ -3,23 +3,23 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
-        <div className="navbar bg-base-200">
+        <div className="navbar bg-purple-200">
         <div className="flex-1">
-          <a className=" normal-case text-xl">JobSphere</a>
+          <a className=" normal-case text-2xl font-bold">JobSphere</a>
         </div>
         <div className="flex-1">
           <ul className="menu menu-horizontal px-1">
             <li>
-                <Link to={"/"}>Home</Link>
+                <Link to={"/"} className='font-bold'>Home</Link>
             </li>
             <li>
-              <Link to={"/applied"}>Applied Jobs</Link>
+              <Link to={"/applied"} className='font-bold'>Applied Jobs</Link>
             </li>
             <li>
-              <Link to={"/statistics"}>Statistics</Link>
+              <Link to={"/statistics"} className='font-bold'>Statistics</Link>
             </li>
             <li>
-              <Link to={"/blog"}>Blog</Link>
+              <Link to={"/blog"} className='font-bold'>Blog</Link>
             </li>
             
             

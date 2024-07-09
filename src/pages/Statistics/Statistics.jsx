@@ -1,6 +1,7 @@
 import React from 'react';
 import { BarChart, Bar, Rectangle, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import Banner from '../../components/Banner';
+import DynamicBanner from '../../components/DynamicBanner';
 
 const Statistics = () => {
     const data = [
@@ -41,7 +42,7 @@ const Statistics = () => {
  
     return (
        <div>
-            <Banner/>
+            <DynamicBanner title="Statistics" subtitle="Overview of my assignments' performance" />
             <div style={{ width: '100%', height: 400 }} className="mb-36 mt-12">
                     <ResponsiveContainer>
                         <BarChart

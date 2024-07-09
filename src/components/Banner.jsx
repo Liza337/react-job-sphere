@@ -4,7 +4,7 @@ import bannerImg from '../assets/job-search.jpeg'
 
 const Banner = () => {
     return (
-        <div className="hero  bg-base-200">
+        <div className="hero relative bg-gradient-to-r from-purple-200 shadow-lg">
             <div className="hero-content flex-col lg:flex-row-reverse">
                 <img
                 src={bannerImg}

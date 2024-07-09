@@ -62,7 +62,7 @@ const Home = () => {
             <div className='text-center mb-10'>
                    {
                     !ShowAll &&<button onClick={() => setShowALL(true)} className='btn btn-md btn-secondary my-4'>
-                       Show All
+                       See All Jobs
                    </button>
                    }
             </div>

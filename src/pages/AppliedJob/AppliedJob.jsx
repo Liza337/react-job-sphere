@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Banner from '../../components/Banner';
 import SingleJobPage from '../../components/SingleJobPage';
+import DynamicBanner from '../../components/DynamicBanner';
 
 const AppliedJob = () => {
 
@@ -26,7 +27,7 @@ const AppliedJob = () => {
 
     return (
         <div>
-            <Banner/>
+         <DynamicBanner title="Applied Jobs" subtitle="Jobs you have applied for" />
 
             {/** filter jobs */}
 
