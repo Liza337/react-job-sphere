@@ -1,6 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMapMarkerAlt, faDollarSign,faMoneyBillWave } from '@fortawesome/free-solid-svg-icons';
+import { Link } from 'react-router-dom';
 
 const SingleJobPage = ({feature}) => {
 
@@ -21,7 +22,7 @@ const SingleJobPage = ({feature}) => {
                     <div><FontAwesomeIcon icon={faDollarSign} />Salary: {salary}</div>
                 </div>
                 <div className="card-actions justify-end">
-                <button className="btn btn-md btn-primary">View Details</button>
+                <Link to={`/feature/${id}`} className="btn btn-md btn-primary">View Details</Link>
                 </div>
             </div>
         </div>

@@ -29,8 +29,9 @@ const Home = () => {
 
             {/** job category section */}
 
-            <div className='mt-20 mb-8'>
+            <div className='mt-12 mb-8'>
                 <h1 className="text-3xl text-center py-5 font-bold">Job Category List</h1>
+                <h2 className=" text-center">Explore thousands of job opportunities with all the information you need. Its your future</h2>
            </div>
 
            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8'>
@@ -44,8 +45,9 @@ const Home = () => {
 
             {/* Job section starts here   */}
 
-            <div className='my-8'>
+            <div className='mt-12 mb-10'>
                 <h1 className="text-3xl text-center py-5 font-bold">Featured Jobs</h1>
+                <h2 className=" text-center">Explore thousands of job opportunities with all the information you need. Its your future</h2>
             </div>
 
             <div className='grid grid-cols-1 sm:grid-cols-2 gap-5'>
