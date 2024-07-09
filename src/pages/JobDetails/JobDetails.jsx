@@ -14,7 +14,7 @@ const JobDetails = () => {
     return (
         <div>
             <Banner/>
-            <div className='mt-12 flex mb-10'>
+            <div className='mt-16 flex mb-10'>
 
                {/** job details */}
                <div className='flex-1 mr-4'>
