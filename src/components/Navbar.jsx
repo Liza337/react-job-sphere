@@ -26,7 +26,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div>
-             <button className="btn btn-md btn-secondary">Start Applying</button>
+             <button className="btn btn-md btn-primary">Start Applying</button>
         </div>
       </div>
   
