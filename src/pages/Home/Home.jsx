@@ -61,7 +61,7 @@ const Home = () => {
 
             <div className='text-center mb-10'>
                    {
-                    !ShowAll &&<button onClick={() => setShowALL(true)} className='btn btn-sm btn-secondary my-4'>
+                    !ShowAll &&<button onClick={() => setShowALL(true)} className='btn btn-md btn-secondary my-4'>
                        Show All
                    </button>
                    }
