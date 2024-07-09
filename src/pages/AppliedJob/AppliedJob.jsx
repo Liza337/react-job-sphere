@@ -33,7 +33,7 @@ const AppliedJob = () => {
             <div className='my-8'>
                
                 <select onChange={handleFilter} className="select select-bordered bg-base-200 w-full max-w-xs">
-                    <option disabled selected >Filter By</option>
+                    <option disabled selected className='font-bold'>Filter By</option>
                     <option value="Onsite">Onsite</option>
                     <option value="Remote">Remote</option>
                 </select>
@@ -42,7 +42,7 @@ const AppliedJob = () => {
             {/* applied job here*/}
             {
                 filterApplied.length > 0 ?(
-                filterApplied?.map((feature) => <div className='my-4'>
+                filterApplied?.map((feature) => <div className='border-1 my-4'>
                 <SingleJobPage feature ={feature}/>
                 </div>))
                 :
